@@ -51,4 +51,9 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+
+<a href="https://singhkaran202.hashnode.dev//from-domain-to-deployment-how-to-set-up-a-custom-domain-with-github-pages" title="From Domain to Deployment: How to Set Up a Custom Domain with GitHub Pages"><strong>From Domain to Deployment: How to Set Up a Custom Domain with GitHub Pages</strong></a>
+<br/> Hello folks! I trust you're all doing well and continuously expanding your horizons.
+I've always been intrigued by the process of hosting websites on the internet. There's an incredible sense of satisfaction that comes with seeing your project websit... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
