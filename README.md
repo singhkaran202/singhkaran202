@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hello Everyone!!👋, I'm Karandeep Singh</h1>
+<h1 align="center">Hello Everyone!!👋, I'm Karandeep Rathore</h1>
 
 <h3 align="center">Web developer | Pre-Final Year Student at NIT Trichy</h3>
 
