@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karandeep Rathore</h1>
-<h3 align="center">Web developer | Final Year Student at NIT Trichy</h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhkaran202&label=Profile%20views&color=0e75b6&style=flat" alt="singhkaran202" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhkaran202" alt="singhkaran202" /></a> </p>
-
-- 💬 Ask me about **Data Structures and Algorithms, Web development (Frontend and Backend)**
 
 - 📫 How to reach me **kdsr012@gmail.com**
 
